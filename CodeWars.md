@@ -11,3 +11,5 @@
 * Grasshopper - Summation [https://www.codewars.com/kata/55d24f55d7dd296eb9000030/solutions/python]
 
 * Sum Arrays [https://www.codewars.com/kata/53dc54212259ed3d4f00071c/solutions/python]
+
+* Double Char [https://www.codewars.com/kata/56b1f01c247c01db92000076/solutions/python]
